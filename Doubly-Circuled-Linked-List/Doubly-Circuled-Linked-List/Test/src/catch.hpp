@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@fmarkyy98 
-fmarkyy98
-/
-Set
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security 0 Insights Settings
-Set/Set/Set/Test/src/catch.hpp
-@fmarkyy98 fmarkyy98 catch.hpp added.
-56058b4 on Mar 6
-14687 lines (12027 sloc)  496 KB
-  
 /*
  *  Catch v2.6.0
  *  Generated: 2019-01-31 22:25:55.560884
@@ -14705,15 +14685,3 @@ using Catch::Detail::Approx;
 // end catch.hpp
 #endif // TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
 
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
