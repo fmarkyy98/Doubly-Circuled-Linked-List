@@ -29,5 +29,8 @@
     <ClInclude Include="C2L.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Test\src\catch.hpp">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

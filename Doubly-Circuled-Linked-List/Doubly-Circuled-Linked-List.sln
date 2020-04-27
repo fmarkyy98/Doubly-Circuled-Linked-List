@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Doubly-Circuled-Linked-List", "Doubly-Circuled-Linked-List\Doubly-Circuled-Linked-List.vcxproj", "{7419C60A-D2AB-4560-8999-A2194E4B6C31}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C829F75-2621-4B50-85B9-3DAE3258E64C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{44D422BC-0C6F-4BD4-BE4E-E6EE5C0C410B}"
+	ProjectSection(SolutionItems) = preProject
+		Doubly-Circuled-Linked-List\Test\01.txt = Doubly-Circuled-Linked-List\Test\01.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -24,6 +31,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44D422BC-0C6F-4BD4-BE4E-E6EE5C0C410B} = {8C829F75-2621-4B50-85B9-3DAE3258E64C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {061E3DB4-EE9B-4A28-82E7-DC6F65A138C3}
